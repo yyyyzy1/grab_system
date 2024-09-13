@@ -1,0 +1,2 @@
+/home/yan/code/foundation_qt/FoundationPose/demo_data/mustard0/mesh/textured_simple.obj
+/home/yan/code/foundation_qt/FoundationPose/demo_data/aimkse/difficult/mesh/JBL_0001.obj
